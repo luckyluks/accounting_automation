@@ -1,3 +1,6 @@
+# Exclude CSV exports
+files/*
+
 # VS Code
 .vscode/*
 !.vscode/settings.json
