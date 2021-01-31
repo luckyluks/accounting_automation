@@ -11,3 +11,6 @@ files/*
 
 # Local History for Visual Studio Code
 .history/
+
+# Exclude Pychache
+__pycache__/*
